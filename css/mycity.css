@@ -1,0 +1,50 @@
+.omar{
+    text-align: center;
+    color: maroon;
+    border-style: dashed;
+}
+body{
+    /* background-color: mediumseagreen; */
+}
+.taiz
+{
+    
+    color: rgb(41, 66, 121);
+}
+.ma
+{
+   text-decoration: yellowgreen;
+}
+#mw{
+    color: rgb(41, 66, 121);
+    text-shadow: seagreen;
+    text-justify: newspaper;
+    text-overflow: ellipsis;
+}
+.line{
+     
+    width: 60em;
+    color: white;
+}
+.line2{
+    width: 40em;
+    color: white;
+}
+.line3{
+    width: 20em;
+    color: white;
+}
+.line4{
+    border: 10px solid green;
+ border-radius: 9px;
+}
+.column {
+     float: left;
+      width: 33.33%;
+      padding: 5px;
+      }
+.row::after {
+    content: "";
+   clear: both;
+   display: table;
+       }
